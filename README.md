@@ -6,10 +6,6 @@
 
 <br/>
 
-<!-- One-liner -->
-
-<br/>
-
 <!-- Contact badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-prakash-09ab87341/)
 &nbsp;
@@ -21,17 +17,15 @@
 
 ---
 
-<!-- About -->
 ## 🧠 About Me
 
-- Undergraduate student specializing in **Artificial Intelligence and Machine Learning**
-- Currently exploring Deep Learning frameworks, Agentic AI systems and Full Stack AI applications
-- Also interested in financial markets, astronomy and international relations
-- Striving to realize my creativity through irl useful projects
+- 🎓 Undergraduate student specializing in **Artificial Intelligence and Machine Learning**
+- 🔭 Currently exploring Deep Learning frameworks, Agentic AI systems and Full Stack AI applications
+- 🌌 Also interested in financial markets, astronomy and international relations
+- 🚀 Striving to realize my creativity through irl useful projects
 
 ---
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -56,33 +50,36 @@
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ashwin-Prakash-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ashwin-Prakash-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Prakash-dev&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Prakash-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ashwin-Prakash-dev&theme=github-dark&hide_border=true" height="150" />
 
 </div>
 
 ---
 
-<!-- Contribution Snake -->
-## Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-Prakash-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-Prakash-dev/Ashwin-Prakash-dev/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwin-Prakash-dev/Ashwin-Prakash-dev/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ashwin-Prakash-dev/Ashwin-Prakash-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ashwin-Prakash-dev/Ashwin-Prakash-dev/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58A6FF" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ashwin-Prakash-dev&style=flat-square&color=58A6FF" alt="profile views" />
 </div>
