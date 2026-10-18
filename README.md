@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashwin+Prakash+%F0%9F%91%8B;AI%2FML+engineer+in+the+making;Building+ML+systems+from+scratch)](https://git.io/typing-svg)
 
-**Final-year B.Tech CS (AI/ML) student · Tech Lead, SCT Coding Club · Kerala, India**
+**Final-year B.Tech CS (AI/ML) student **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-prakash-09ab87341/)
 &nbsp;
@@ -30,11 +30,11 @@ I'm an AI/ML student graduating in May 2027, and I like understanding systems by
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[ApexHMM](https://github.com/Ashwin-Prakash-dev/ApexHMM)** | Unsupervised macro-regime detection with a **hand-written Baum-Welch Gaussian HMM** (4 states: Calm, Elevated, Stressed, Crisis) on FRED and VIX features, driving a tactical SPY/SHY allocation. Out-of-sample 2018–present: Sharpe 0.67 vs 0.65 for SPY buy-and-hold, with max drawdown of -27.2% vs -33.7%, after 5 bps transaction costs. | Python, NumPy, SciPy, scikit-learn |
 | **[DeepSight](https://github.com/Ashwin-Prakash-dev/DeepSight)** | Fully **offline Android app** for microscopy screening and triage. On-device ONNX models per disease "pack", rule-based triage, an optional on-device Gemma report writer, and clinician sign-off on every case. Built in a 30-hour hackathon with a team of four. | Kotlin, Jetpack Compose, ONNX, PyTorch |
+| **[ApexHMM](https://github.com/Ashwin-Prakash-dev/ApexHMM)** | Unsupervised macro-regime detection with a **hand-written Baum-Welch Gaussian HMM** (4 states: Calm, Elevated, Stressed, Crisis) on FRED and VIX features, driving a tactical SPY/SHY allocation. Out-of-sample 2018–present: Sharpe 0.67 vs 0.65 for SPY buy-and-hold, with max drawdown of -27.2% vs -33.7%, after 5 bps transaction costs. | Python, NumPy, SciPy, scikit-learn |
 | **[Retrotrade](https://github.com/Ashwin-Prakash-dev/Retrotrade)** | Full-stack stock analysis app: market dashboard, technical indicators (RSI, MACD, Fibonacci), a screener, and a multi-stock portfolio backtester with three strategies. | Flutter, FastAPI, Backtrader |
 | **[Tether](https://github.com/Ashwin-Prakash-dev/Tether)** | Sends phone push notifications when large Polymarket trades appear, with a configurable threshold and Redis-backed de-duplication. | FastAPI, Redis, Render |
-| **[Startathon_Website](https://github.com/Ashwin-Prakash-dev/Startathon_Website)** | Official site for Startathon 2026, the hackathon I help organize. | Vite, Tailwind, Three.js |
+| **[Startathon_Website](https://github.com/Ashwin-Prakash-dev/Startathon_Website)** | Official site for Startathon 2026, one of the largest student hackathon in Kerala, conducted b ySCT Coding Club. | Vite, Tailwind, Three.js |
 
 ---
 
