@@ -18,12 +18,6 @@
 
 I'm an AI/ML student graduating in May 2027, and I like understanding systems by building them from the ground up rather than importing them. My work sits between machine learning research and applied engineering: probabilistic models, agentic/LLM systems, and full-stack apps that put models in front of real users.
 
-- 🔬 **Focus:** deep learning, agentic AI, and world-model research for my final-year project
-- 🧪 **Style:** implement the algorithm myself, then measure it honestly against a baseline
-- 🏛️ **Leading:** Tech Lead of the **SCT Coding Club** at Sree Chitra Thirunal College of Engineering, and organizer of **Startathon 2026**, a 30-hour student startup hackathon
-- 🌌 **Outside code:** financial markets, astronomy, international relations
-- 🤝 **Open to:** research collaborations, research-engineering and applied-AI roles, and startup conversations
-
 ---
 
 ## 🚀 Featured Projects
