@@ -5,11 +5,6 @@
 
 **Final-year B.Tech CS (AI/ML) student **
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-prakash-09ab87341/)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ashwin_Prakash_Dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ashwin_Prakash_Dev/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-ashwinprk.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinprk.dev@gmail.com)
 
 </div>
 
