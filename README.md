@@ -12,7 +12,7 @@
 
 ## 👋 About
 
-I'm an AI/ML student graduating in May 2027, and I like understanding systems by building them from the ground up rather than importing them. My work sits between machine learning research and applied engineering: probabilistic models, agentic/LLM systems, and full-stack apps that put models in front of real users.
+Final-year CS student (AI/ML) from Kerala, India. I mostly work on machine learning and the occasional full-stack app.
 
 ---
 
