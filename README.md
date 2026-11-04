@@ -15,7 +15,7 @@ Final-year CS student (AI/ML) from Kerala, India. I mostly work on machine learn
 | **[ApexHMM](https://github.com/Ashwin-Prakash-dev/ApexHMM)** | Unsupervised macro-regime detection with a **hand-written Baum-Welch Gaussian HMM** (4 states: Calm, Elevated, Stressed, Crisis) on FRED and VIX features, driving a tactical SPY/SHY allocation. Out-of-sample 2018–present: Sharpe 0.67 vs 0.65 for SPY buy-and-hold, with max drawdown of -27.2% vs -33.7%, after 5 bps transaction costs. | Python, NumPy, SciPy, scikit-learn |
 | **[Retrotrade](https://github.com/Ashwin-Prakash-dev/Retrotrade)** | Full-stack stock analysis app: market dashboard, technical indicators (RSI, MACD, Fibonacci), a screener, and a multi-stock portfolio backtester with three strategies. | Flutter, FastAPI, Backtrader |
 | **[Tether](https://github.com/Ashwin-Prakash-dev/Tether)** | Sends phone push notifications when large Polymarket trades appear, with a configurable threshold and Redis-backed de-duplication. | FastAPI, Redis, Render |
-| **[Startathon_Website](https://github.com/Ashwin-Prakash-dev/Startathon_Website)** | Official site for Startathon 2026, one of the largest student hackathon in Kerala, conducted b ySCT Coding Club. | Vite, Tailwind, Three.js |
+| **[Startathon_Website](https://github.com/Ashwin-Prakash-dev/Startathon_Website)** | Official site for Startathon 2026, one of the largest student hackathon in Kerala, conducted by SCT Coding Club. | Vite, Tailwind, Three.js |
 
 ---
 
